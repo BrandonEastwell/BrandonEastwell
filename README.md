@@ -4,7 +4,7 @@
    I am a CS grad currently developing my React and Java Spring skills<br>
    In the mean time, I am working on developing full-stack web projects and
    <br> looking to contribute to open source projects. <br>
-   <br><a href="" target="_blank">check out my portfolio here</a><br>
+   <a href="" target="_blank">check out my portfolio here</a><br>
    </samp><br>
 </div>
 <div align="center">
