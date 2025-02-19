@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**BrandonEastwell/BrandonEastwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <samp><br>
+   Heeeyyy, I'm Brandon!
+   <br>
+   I’m currently learning Python, Go, Vanilla Javascript, HTML & CSS.<br>
+   In the mean time, I'm working on developing Python projects and<br> looking to contribute to other open source
+   projects.
+   <br>
+   </samp><br>
+<p align="center"><samp> ~
+   ·
+   <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">linkedin</a>
+   ~ </samp><br><br>
+</p>
+</p>
