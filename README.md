@@ -5,6 +5,7 @@
    In the mean time, I am working on developing full-stack web projects and
    <br> looking to contribute to open source projects.
    <br>
+   <a href="" target="_blank">Check out my portfolio here</a>
    </samp><br>
 </div>
 <div align="center">
