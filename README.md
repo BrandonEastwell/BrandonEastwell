@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
    <samp><br>
    Heeeyyy, I'm Brandon!
    <br>I’m currently learning Python, Go, Vanilla Javascript, HTML & CSS.<br>
@@ -6,11 +6,7 @@
    projects.
    <br>
    </samp><br>
-<p align="center"><samp> 
-
-</samp><br><br>
-</p>
-</p>
+</div>
 <div align="center">
    <a href="https://linkedin.com/in/trina-yau" target="_blank">
    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
