@@ -1,8 +1,7 @@
 <p align="center">
    <samp><br>
    Heeeyyy, I'm Brandon!
-   <br>
-   I’m currently learning Python, Go, Vanilla Javascript, HTML & CSS.<br>
+   <br>I’m currently learning Python, Go, Vanilla Javascript, HTML & CSS.<br>
    In the mean time, I'm working on developing Python projects and<br> looking to contribute to other open source
    projects.
    <br>
@@ -12,3 +11,8 @@
 </samp><br><br>
 </p>
 </p>
+<div align="center">
+   <a href="https://linkedin.com/in/trina-yau" target="_blank">
+   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+   </a>
+</div>
