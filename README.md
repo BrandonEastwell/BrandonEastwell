@@ -1,9 +1,9 @@
 <div align="center">
    <samp><br>
    Heeeyyy, I'm Brandon!<br>
-   I’m currently learning Python, Go, Vanilla Javascript, HTML & CSS.<br>
-   In the mean time, I'm working on developing Python projects and<br> looking to contribute to other open source
-   projects.
+   I am a CS grad currently developing my React and Java Spring skills<br>
+   In the mean time, I am working on developing full-stack web projects and
+   <br> looking to contribute to open source projects.
    <br>
    </samp><br>
 </div>
@@ -14,12 +14,8 @@
    <img alt="TypeScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
    <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img alt="NodeJS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="25" />
    <img alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img alt="Spring" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   <img alt="PostgreSQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-   <img alt="MySQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
-   <img style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="25" />  
 </div>
 <br>
 <div align="center">
