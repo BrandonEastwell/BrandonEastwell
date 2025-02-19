@@ -9,9 +9,8 @@
    projects.
    <br>
    </samp><br>
-<p align="center"><samp> ~
-   ·
-   <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">linkedin</a>
-   ~ </samp><br><br>
+<p align="center"><samp> 
+
+</samp><br><br>
 </p>
 </p>
