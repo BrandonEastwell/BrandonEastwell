@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
    <samp><br>
    Heeeyyy, I'm Brandon!
