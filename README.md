@@ -1,7 +1,7 @@
 <div align="center">
    <samp><br>
    Heeeyyy, I'm Brandon!<br>
-   I am a CS grad currently developing my React, Node & Java Spring skills<br>
+   I am a CS grad currently developing my React, Express & Java Spring skills<br>
    In the mean time, I am working on developing full-stack web projects and
    <br> looking to contribute to open source projects. <br>
    <a href="" target="_blank">check out my portfolio here</a><br>
