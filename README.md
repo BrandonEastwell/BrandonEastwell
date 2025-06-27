@@ -5,6 +5,7 @@
    In the mean time, I am working on developing full-stack web projects and
    <br> looking for freelancing work opportunities. <br>
    </samp><br>
+   <a href="https://www.linkedin.com/in/brandoneastwell" target="_blank">check out my portfolio here</a>
 </div>
 <div align="center">
    <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -21,7 +22,7 @@
 </div>
 <br>
 <div align="center">
-   <a href="https://www.linkedin.com/in/brandon-eastwell-40056631b" target="_blank">
+   <a href="https://www.linkedin.com/in/brandoneastwell" target="_blank">
    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
    </a>
 </div>
