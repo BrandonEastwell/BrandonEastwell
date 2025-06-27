@@ -4,7 +4,7 @@
    I am a CS grad currently developing my React, Express & Java Spring skills<br>
    In the mean time, I am working on developing full-stack web projects and
    <br> looking for freelancing work opportunities. <br>
-   <br><a href="https://www.linkedin.com/in/brandoneastwell" target="_blank">check out my portfolio here</a><br>
+   <br><a href="https://www.linkedin.com/in/brandoneastwell" target="_blank">brandoneastwell.com</a><br>
    </samp><br>
 </div>
 <div align="center">
